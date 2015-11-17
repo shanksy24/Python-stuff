@@ -116,4 +116,4 @@ for turn in range(20):
 		print "Congrats! You Guessed it!\nYou Won!"
 		exit()
 
-print "You lost!\nBad luck!"
+print "You lost!\nBad luck!\n:("
