@@ -10,8 +10,6 @@ if user_input == 0:
 	print "Area      : 1 unit squared"
 	exit()
 
-print area_tally
-
 for n in range(1, user_input+1):
 	if n == 1:
 		area_tally = [4,3]
