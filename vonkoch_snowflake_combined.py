@@ -21,7 +21,7 @@ for n in range(1, user_input+1):
 		area_tally[1] *= 9
 		area_tally[0] += (4**(n-1))
 
-print "Fractional : "
+print "\nFractional : "
 print "Area      : " + str(area_tally[0]) + "/" + str(area_tally[1]) + " units squared"
 
 for n in range(user_input):
